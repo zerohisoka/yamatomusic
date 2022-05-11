@@ -22,4 +22,3 @@ tgcrypto
 wget
 youtube-search
 youtube-search-python
-yt-dlp
